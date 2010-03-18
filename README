@@ -1,0 +1,4 @@
+Options Trading with Common Lisp
+Requires SBCL and gnuplot for visualizations
+
+set *gnuplot* variable to the path of your gnuplot executable
